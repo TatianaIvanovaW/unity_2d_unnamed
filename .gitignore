@@ -1,0 +1,8 @@
+# large files
+Library/
+Logs/
+Temp/
+UserSettings/
+
+# meta data files
+*.meta
